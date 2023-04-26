@@ -1,1 +1,1 @@
-added badges (#45)
+Update Colab notebook for YOLOv8.1 (#8660)
