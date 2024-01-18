@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Clean up unused imgsz (#7771)
