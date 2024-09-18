@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
